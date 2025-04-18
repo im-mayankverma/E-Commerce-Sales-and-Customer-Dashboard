@@ -230,6 +230,39 @@ else:
 
 # Footer
 st.markdown(
-    "<div id='custom-footer'>Developed by <a href='https://www.linkedin.com/in/im-mayankverma/' target='_blank'>Mayank</a></div>",
+    """
+    <style>
+        #custom-footer {
+            font-size: 14px;
+            color: #666;
+            text-align: center;
+            margin-top: 50px;
+            padding: 10px;
+            border-top: 1px solid #ddd;
+        }
+        #custom-footer a {
+            color: #0073e6;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        #custom-footer a:hover {
+            text-decoration: underline;
+        }
+        #custom-footer .team {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+        }
+    </style>
+    <div id='custom-footer'>
+        <div class="team">
+            Developed by 
+            <a href='https://www.linkedin.com/in/im-ddivu1744/' target='_blank'>Mayank</a>
+        </div>
+        <div>
+            <span>© 2025. All rights reserved.</span>
+        </div>
+    </div>
+    """,
     unsafe_allow_html=True
 )
