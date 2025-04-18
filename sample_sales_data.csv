@@ -1,0 +1,501 @@
+Order Date,Customer Name,Region,Category,Product,Sales,Profit,Quantity,Order ID
+2023-04-20,Joseph Beard,Central,Furniture,Bookcase,3207.46,1430.82,5,ORD-954938
+2023-11-06,Carrie Garza,East,Technology,Monitor,6289.83,1654.07,10,ORD-223548
+2024-11-26,Monica Whitney,West,Furniture,Desk,1635.17,76.04,4,ORD-704964
+2025-04-03,Elizabeth Griffin,Central,Furniture,Conference Table,7866.52,1059.68,7,ORD-127355
+2024-08-28,Joshua Scott,North,Office Supplies,Stapler,1666.52,179.61,6,ORD-923010
+2023-09-07,Michelle Snyder,West,Technology,Laptop,6081.59,-766.75,6,ORD-425775
+2024-12-11,Joseph Watkins,Central,Furniture,Conference Table,1453.32,69.14,10,ORD-562495
+2024-02-12,Karen Singh,North,Furniture,Office Chair,4061.62,1316.21,9,ORD-402993
+2023-09-29,William Morrow,North,Furniture,Conference Table,7195.6,3057.11,4,ORD-381081
+2023-06-20,Danielle Summers,North,Technology,Smartphone,1370.68,-167.55,2,ORD-528833
+2023-04-23,Alexandra Warren,South,Office Supplies,Paper,6666.33,126.33,5,ORD-519139
+2024-01-14,Anna Thompson,West,Office Supplies,Paper,9047.44,4237.28,8,ORD-758658
+2023-06-01,Amber Ruiz,East,Office Supplies,Binders,247.7,103.13,1,ORD-303806
+2024-06-19,Laura Quinn,North,Furniture,Office Chair,1571.46,202.06,3,ORD-660190
+2024-08-05,Deborah Simpson MD,South,Office Supplies,Binders,14593.4,-1519.26,9,ORD-955999
+2023-04-22,Christopher Eaton,West,Technology,Smartphone,2995.67,788.76,10,ORD-562243
+2023-09-18,Tyrone Taylor,Central,Office Supplies,Pens,3530.66,782.93,5,ORD-642394
+2025-04-13,Patrick Osborn,East,Technology,Monitor,4646.74,1932.51,5,ORD-110047
+2024-05-19,Crystal Hall,North,Furniture,Conference Table,5847.72,2031.89,10,ORD-484353
+2023-05-01,Lauren Griffin,North,Office Supplies,Binders,8280.65,1601.86,7,ORD-437804
+2024-01-31,Anne Jones,West,Furniture,Office Chair,3544.83,1315.19,2,ORD-710922
+2024-08-02,Shannon Burton,North,Furniture,Bookcase,11272.88,908.31,10,ORD-221841
+2024-11-12,Angel Glenn,Central,Technology,Laptop,1920.68,-312.25,1,ORD-165503
+2023-10-23,Lindsey Delacruz,Central,Furniture,Office Chair,3957.49,1515.84,9,ORD-417511
+2025-04-11,Kristina Duke,North,Technology,Printer,1773.38,300.84,1,ORD-642216
+2024-07-23,Yolanda Cooper,East,Office Supplies,Binders,1142.26,331.06,3,ORD-977263
+2023-04-21,Paul Berry,South,Office Supplies,Binders,6509.47,12.21,5,ORD-651324
+2023-11-13,Megan Smith,Central,Furniture,Bookcase,5930.95,-537.91,3,ORD-278301
+2024-09-27,David Chung,North,Technology,Laptop,3292.19,-125.36,2,ORD-187670
+2023-05-02,Melanie Hogan,West,Technology,Printer,5633.94,609.33,9,ORD-642588
+2024-01-16,Veronica Anderson,South,Office Supplies,Paper,9347.23,-1109.85,5,ORD-295511
+2025-01-12,Ryan Wiggins,North,Furniture,Office Chair,3080.68,1258.29,4,ORD-737758
+2023-06-27,Kimberly Williams,Central,Technology,Printer,3151.83,776.11,5,ORD-454947
+2023-10-02,Alexa Tucker,South,Furniture,Conference Table,2509.03,423.51,4,ORD-444936
+2024-07-01,Michelle Cole,South,Furniture,Bookcase,6337.17,799.37,8,ORD-260597
+2023-10-16,Jamie Young,East,Office Supplies,Stapler,4290.21,-733.91,7,ORD-515664
+2024-09-07,Rachel Schaefer,West,Furniture,Office Chair,3235.48,1230.7,2,ORD-905229
+2023-05-23,Jon Graves,East,Furniture,Conference Table,7121.49,1554.12,5,ORD-642297
+2024-06-04,Mrs. Molly Lopez,North,Technology,Monitor,1543.83,101.46,2,ORD-801285
+2023-07-04,Danielle Benson,North,Technology,Smartphone,4871.09,-950.75,3,ORD-475544
+2024-08-13,Edwin Santiago,West,Office Supplies,Stapler,14320.55,-1042.89,8,ORD-825201
+2023-08-31,Rachel Alvarez,West,Technology,Laptop,8627.76,-1528.64,9,ORD-449333
+2024-12-03,Carl Patterson,Central,Office Supplies,Pens,6453.37,-24.58,6,ORD-864306
+2024-12-15,Juan Smith,East,Technology,Laptop,6548.52,3254.61,8,ORD-871895
+2024-01-09,Brenda Phillips,East,Technology,Printer,1084.74,30.76,10,ORD-541750
+2023-06-15,Scott Ross,North,Office Supplies,Paper,5155.83,1582.84,4,ORD-613937
+2025-01-24,Jessica Clayton,South,Furniture,Conference Table,6724.4,2346.56,4,ORD-689716
+2023-05-23,Paul Smith,North,Technology,Printer,5618.79,-262.24,5,ORD-793036
+2023-10-27,Erin Parker,West,Furniture,Conference Table,9625.61,1314.75,7,ORD-728030
+2025-01-15,Colleen Coleman DDS,West,Technology,Smartphone,1315.09,-227.07,3,ORD-690661
+2024-06-16,Lisa Ortiz,West,Furniture,Bookcase,1138.06,409.27,10,ORD-499374
+2024-10-21,Amanda Figueroa,South,Furniture,Desk,14835.45,5726.01,10,ORD-626905
+2023-09-19,Ashley Ramirez,West,Furniture,Office Chair,1735.91,434.25,3,ORD-152117
+2023-05-24,Jose Griffin DDS,Central,Technology,Smartphone,5311.97,-669.14,5,ORD-713938
+2024-04-03,Benjamin Wong,South,Office Supplies,Stapler,7633.79,2636.83,7,ORD-309941
+2023-06-09,Stephen Durham,West,Office Supplies,Pens,5287.12,1713.58,7,ORD-210234
+2023-07-02,Benjamin May,East,Technology,Smartphone,984.13,-164.39,4,ORD-309427
+2024-02-15,Kimberly Werner,Central,Office Supplies,Paper,5002.46,182.99,3,ORD-622339
+2024-03-30,Ian Robinson,East,Technology,Monitor,6957.75,3281.7,4,ORD-396474
+2023-09-04,Melissa Anderson,North,Technology,Printer,3688.01,1356.48,5,ORD-682547
+2023-06-17,Anthony Bradley,East,Furniture,Conference Table,5622.44,1806.86,10,ORD-409845
+2025-03-10,Corey Long,North,Furniture,Conference Table,77.5,21.75,3,ORD-125038
+2025-03-02,Megan Taylor,West,Office Supplies,Stapler,1850.44,716.35,1,ORD-535713
+2024-09-20,Kendra Santiago,South,Technology,Printer,2464.42,-333.19,4,ORD-505498
+2024-06-30,Cynthia Cross,Central,Technology,Monitor,1402.99,-271.71,2,ORD-183577
+2023-05-19,Michael Roth,North,Technology,Monitor,1874.39,-340.74,1,ORD-754704
+2025-02-21,Elizabeth Edwards,North,Office Supplies,Paper,8586.75,2632.05,7,ORD-872219
+2023-11-04,Michelle Thompson,South,Technology,Monitor,4591.04,934.21,8,ORD-917943
+2025-03-28,Ralph Woods,Central,Office Supplies,Pens,6312.97,2942.16,6,ORD-424423
+2025-03-18,Jose Wright,Central,Furniture,Bookcase,793.54,148.11,8,ORD-422354
+2023-10-06,Brandon Hernandez,West,Furniture,Bookcase,4371.12,88.67,4,ORD-124811
+2025-03-15,Gerald Gibbs,Central,Technology,Monitor,15265.37,7497.53,8,ORD-753737
+2024-07-02,Dustin Fuller,West,Office Supplies,Paper,7243.85,-210.65,7,ORD-766377
+2023-05-31,Chris Hall,South,Office Supplies,Paper,1753.28,-106.71,3,ORD-506482
+2024-04-16,Tiffany Jones,West,Office Supplies,Stapler,6148.5,216.42,6,ORD-186291
+2023-11-13,Daniel Williams,North,Office Supplies,Paper,1280.36,471.6,2,ORD-426723
+2023-10-20,Kristopher Gonzales,West,Office Supplies,Binders,9501.1,-459.22,9,ORD-513762
+2023-05-03,Matthew Hernandez,Central,Office Supplies,Stapler,1636.01,589.71,7,ORD-828389
+2024-08-28,Dana Smith,South,Furniture,Office Chair,19384.73,8240.42,10,ORD-360772
+2024-07-30,Sydney Dickson,East,Furniture,Conference Table,3766.67,-473.81,3,ORD-100663
+2024-02-24,Mary Chambers,South,Furniture,Bookcase,15237.3,1924.55,10,ORD-808771
+2025-02-10,Ronald Avila,East,Office Supplies,Paper,16845.89,7121.37,10,ORD-720087
+2024-11-07,Christina Johnson,South,Furniture,Bookcase,1538.86,-263.3,1,ORD-767250
+2024-08-03,Melinda Gonzalez,East,Furniture,Office Chair,2483.12,-301.4,7,ORD-539724
+2024-09-14,Rachael Martin,East,Technology,Printer,4536.11,679.48,6,ORD-180662
+2023-08-08,David Campbell,Central,Technology,Printer,2023.15,888.55,9,ORD-568106
+2024-02-04,Jeremy Hardy,Central,Furniture,Desk,2851.04,475.72,3,ORD-349340
+2025-01-03,Kaitlyn Barker,North,Furniture,Desk,9479.21,4582.3,10,ORD-433353
+2023-05-18,Megan Stout,South,Office Supplies,Paper,8996.31,-287.66,8,ORD-515610
+2023-09-22,Ryan Clark,South,Office Supplies,Pens,1216.92,73.33,1,ORD-908459
+2024-12-20,Terry George,North,Technology,Printer,5117.16,1291.19,3,ORD-387710
+2023-08-26,Jerry Diaz,North,Technology,Monitor,19630.75,5454.02,10,ORD-391979
+2024-04-04,David Wood,South,Furniture,Bookcase,3645.63,198.54,5,ORD-833299
+2023-08-09,Jennifer Cross,South,Office Supplies,Binders,7319.32,-310.86,4,ORD-351302
+2025-03-16,Charles Jenkins,North,Office Supplies,Pens,9464.71,3951.73,9,ORD-737583
+2024-04-15,Tony George,West,Furniture,Office Chair,16179.52,4867.4,10,ORD-747156
+2023-09-03,Hannah White,East,Office Supplies,Binders,7193.29,154.19,8,ORD-921168
+2025-03-17,Julie Sanders,Central,Technology,Smartphone,4349.91,1637.31,9,ORD-994938
+2023-05-07,Catherine Keller,Central,Furniture,Bookcase,527.3,113.92,7,ORD-476808
+2024-12-08,Debra Simpson,South,Furniture,Conference Table,3517.17,328.35,10,ORD-171027
+2024-05-03,Jesse Navarro,South,Furniture,Bookcase,16652.85,7821.51,9,ORD-121001
+2023-04-26,Rachael Tapia,North,Technology,Smartphone,5808.3,-675.2,6,ORD-433744
+2023-12-20,Ryan Young,East,Office Supplies,Stapler,17588.32,-66.49,9,ORD-167039
+2024-01-22,Eric Lara,East,Furniture,Conference Table,5499.4,211.66,9,ORD-131000
+2025-02-09,Nicholas Herman,West,Office Supplies,Binders,2800.33,169.31,2,ORD-678157
+2025-01-27,Craig Diaz,East,Technology,Laptop,2637.8,25.55,2,ORD-262617
+2025-03-20,Tamara Allen,South,Technology,Laptop,6081.75,2369.87,8,ORD-937314
+2023-09-02,Lisa Freeman,East,Furniture,Conference Table,14629.71,4339.44,8,ORD-710088
+2024-05-24,Levi Khan,Central,Furniture,Office Chair,5866.51,-689.85,8,ORD-182634
+2024-06-25,Christopher Martinez,South,Furniture,Desk,1395.33,-245.15,6,ORD-157002
+2024-02-02,Bryan Fernandez,East,Office Supplies,Paper,7047.33,3260.46,6,ORD-898491
+2024-05-23,Donald Garcia,East,Office Supplies,Pens,1577.07,105.97,1,ORD-919080
+2025-02-26,Edward Johnson,East,Technology,Monitor,3235.2,856.16,2,ORD-551984
+2023-06-10,Andrew Martin,East,Furniture,Office Chair,1571.19,537.76,3,ORD-160658
+2023-06-10,Jessica Le,North,Technology,Printer,14397.53,4658.9,9,ORD-627340
+2024-10-02,Tina Baldwin,Central,Technology,Smartphone,5765.42,2859.3,7,ORD-692798
+2024-01-06,Mary Sharp,Central,Office Supplies,Binders,936.8,344.15,4,ORD-997581
+2023-08-22,Nathan Thomas,South,Technology,Printer,14206.42,6140.01,9,ORD-251234
+2024-01-14,Holly Murphy,North,Office Supplies,Stapler,8685.83,2025.57,10,ORD-640839
+2024-06-17,Janet Smith,Central,Technology,Printer,2208.82,-397.58,3,ORD-311325
+2024-05-05,Angela Rice,East,Furniture,Office Chair,2548.59,689.53,4,ORD-424871
+2024-03-15,Brittany Ponce,North,Technology,Smartphone,11731.57,2460.73,8,ORD-554899
+2024-01-13,Chelsea Reed,South,Technology,Smartphone,4066.47,1627.13,5,ORD-163601
+2023-07-24,Andrea Yang DDS,South,Technology,Smartphone,7402.18,3626.16,5,ORD-712476
+2024-03-21,Terry Nelson,South,Furniture,Bookcase,6448.69,-947.72,4,ORD-376587
+2023-09-22,Kyle Bryant,Central,Furniture,Desk,13441.23,3657.36,8,ORD-907442
+2023-12-09,Randall Smith,South,Office Supplies,Pens,3808.78,-391.13,5,ORD-652805
+2023-10-25,Sally Cole,East,Furniture,Desk,1083.51,396.0,9,ORD-599378
+2025-03-23,Patricia Cox,East,Technology,Laptop,1165.44,108.14,5,ORD-767976
+2025-03-13,David Davis,Central,Furniture,Office Chair,10911.04,1794.35,6,ORD-588834
+2023-09-02,Nicholas Parker,West,Furniture,Bookcase,19129.11,6407.19,10,ORD-951958
+2023-09-25,Mary Simmons,Central,Furniture,Bookcase,6339.06,922.39,4,ORD-612471
+2024-12-09,Kendra Woods,North,Office Supplies,Paper,8903.1,1565.56,8,ORD-488886
+2023-10-29,Amy Palmer,East,Furniture,Conference Table,11310.33,4886.42,8,ORD-372107
+2024-11-01,Adam Schwartz,East,Technology,Smartphone,3950.82,1237.16,10,ORD-404555
+2023-06-19,Manuel White,West,Office Supplies,Paper,5686.95,2107.45,7,ORD-549403
+2023-08-13,Amber Martin,North,Office Supplies,Stapler,5580.37,522.57,7,ORD-670337
+2023-12-28,Cynthia Myers,West,Furniture,Conference Table,7691.53,3688.02,10,ORD-381090
+2025-04-11,Tammy Day,North,Office Supplies,Paper,2291.83,365.44,3,ORD-188269
+2024-09-21,Jessica Camacho,East,Technology,Laptop,938.26,50.78,1,ORD-726028
+2024-07-01,Richard Robinson,Central,Technology,Laptop,14243.43,-2141.19,8,ORD-544739
+2025-03-18,Stephanie Kennedy,Central,Office Supplies,Stapler,6326.81,2585.86,4,ORD-359622
+2025-02-22,Russell Vasquez,South,Furniture,Conference Table,109.39,-7.28,4,ORD-152803
+2024-01-15,Karen Guzman,Central,Furniture,Office Chair,5507.18,-60.66,7,ORD-994716
+2024-07-30,Carlos Thomas,North,Office Supplies,Pens,5098.01,2400.02,4,ORD-406238
+2024-08-03,Daniel Smith,Central,Technology,Laptop,915.88,47.77,1,ORD-956961
+2024-01-10,Christina Nelson,Central,Office Supplies,Pens,3559.14,-68.59,3,ORD-570337
+2025-01-16,Charles Carlson,West,Technology,Printer,786.55,377.26,2,ORD-734046
+2024-10-30,Donna Lopez,East,Office Supplies,Stapler,1761.37,-25.23,1,ORD-576699
+2024-04-01,Kenneth Kramer,Central,Office Supplies,Paper,5207.62,-684.28,9,ORD-422068
+2023-08-29,Suzanne Jackson,Central,Furniture,Bookcase,3022.45,-525.37,3,ORD-503682
+2023-09-26,Sheryl Watson,West,Furniture,Bookcase,9283.45,3496.85,9,ORD-630646
+2024-07-01,Patricia Reilly MD,South,Office Supplies,Binders,4585.75,673.54,4,ORD-493048
+2024-04-20,Alicia Mendez,West,Technology,Laptop,10281.98,567.37,8,ORD-473714
+2023-12-23,Ryan Swanson,North,Furniture,Conference Table,1025.78,362.27,3,ORD-707355
+2023-05-13,Lisa Meyers,South,Office Supplies,Stapler,10937.6,-1440.28,6,ORD-196515
+2023-10-14,Connor Pineda,Central,Office Supplies,Paper,2806.21,37.0,3,ORD-539572
+2024-07-04,Jamie Cortez,West,Furniture,Bookcase,7170.08,2380.04,10,ORD-616524
+2023-10-12,Tyler Walters,South,Furniture,Desk,3785.71,1296.41,6,ORD-905741
+2024-09-30,Kyle Rogers,North,Technology,Monitor,6275.67,1284.83,10,ORD-153731
+2024-10-29,Christina Berg,North,Furniture,Desk,2521.03,-277.02,4,ORD-483809
+2024-10-13,John Jones,East,Office Supplies,Binders,7243.16,814.96,5,ORD-939354
+2024-03-29,Eric Griffith,South,Office Supplies,Pens,16205.13,8009.77,9,ORD-932364
+2023-06-21,Travis Davis,East,Technology,Smartphone,1695.92,14.46,9,ORD-507916
+2023-11-02,Daniel Anderson,South,Office Supplies,Paper,973.4,69.33,8,ORD-998082
+2024-04-22,Kim Fischer,North,Furniture,Bookcase,7884.02,600.87,8,ORD-113640
+2024-11-12,Elizabeth Gonzalez,North,Technology,Smartphone,4082.37,-336.5,3,ORD-817577
+2024-03-23,Don Carroll,Central,Furniture,Desk,3658.8,-696.83,10,ORD-142836
+2024-08-27,Alyssa Murphy,North,Technology,Smartphone,571.91,67.68,1,ORD-230269
+2024-07-11,Ashley Tucker,Central,Office Supplies,Paper,18780.08,8755.89,10,ORD-428067
+2023-06-18,Haley Watson,Central,Office Supplies,Binders,15734.36,281.06,9,ORD-839984
+2024-03-31,Autumn Frank,Central,Furniture,Bookcase,12495.88,3537.52,7,ORD-835784
+2024-10-13,Willie Jones,West,Furniture,Desk,1062.32,219.5,6,ORD-968254
+2023-07-13,Henry Gutierrez,West,Furniture,Desk,3525.29,300.05,5,ORD-109364
+2023-08-02,Kathleen Kelly,North,Technology,Monitor,480.65,-3.67,4,ORD-322382
+2024-12-21,Ashley Powers,West,Office Supplies,Pens,177.12,47.12,4,ORD-134015
+2024-11-29,Jonathan Hansen,East,Office Supplies,Paper,5546.35,427.47,8,ORD-192647
+2023-06-06,Tim Crawford,North,Furniture,Bookcase,8333.63,-120.09,8,ORD-800338
+2023-06-16,Robert Berger,Central,Furniture,Office Chair,9128.57,2217.8,9,ORD-226963
+2024-09-09,Megan Garrett,South,Office Supplies,Paper,6897.73,961.07,9,ORD-424278
+2023-06-15,Helen Rangel,East,Furniture,Office Chair,5061.95,-57.05,3,ORD-358199
+2023-08-03,Christopher Hawkins,Central,Office Supplies,Binders,14421.27,2038.08,10,ORD-128684
+2023-07-17,Nathan Davis,Central,Furniture,Desk,6869.73,-953.05,7,ORD-164818
+2025-03-21,Jessica Baker,West,Technology,Monitor,13815.22,4097.57,7,ORD-905627
+2023-12-27,Lynn Thompson,South,Office Supplies,Stapler,17681.55,7305.89,9,ORD-737316
+2023-09-14,Cheryl Campbell,South,Technology,Laptop,16931.28,2721.96,9,ORD-586271
+2025-04-14,Gloria Foster,Central,Technology,Laptop,998.35,-50.26,1,ORD-320756
+2025-01-19,Emily Payne,Central,Furniture,Bookcase,3358.18,-666.58,2,ORD-756869
+2023-04-20,Lee Clark,Central,Furniture,Desk,2242.22,263.76,2,ORD-517875
+2024-07-22,Sean Wells,North,Office Supplies,Pens,1206.76,501.24,1,ORD-726844
+2025-01-06,Daniel Mitchell,Central,Furniture,Office Chair,8596.82,-868.95,7,ORD-325142
+2023-07-16,Mark Bright,East,Office Supplies,Stapler,11839.39,61.87,10,ORD-838566
+2024-09-25,Justin Bernard,North,Technology,Printer,1246.41,-7.7,8,ORD-907991
+2023-06-10,Michael Rose,South,Furniture,Conference Table,5239.47,156.37,7,ORD-589684
+2024-01-03,David Raymond,North,Office Supplies,Paper,12327.94,306.18,7,ORD-396170
+2023-06-14,Stephanie Mccall,West,Furniture,Office Chair,6116.28,1455.12,5,ORD-313059
+2024-11-18,Victor Lopez,South,Furniture,Conference Table,4703.12,1493.24,4,ORD-540300
+2023-12-02,Alfred Hebert,East,Technology,Monitor,1723.06,230.24,1,ORD-411149
+2024-10-23,Carl Bowers,North,Technology,Laptop,15740.93,6458.07,9,ORD-386808
+2024-08-24,Melinda Simmons,South,Technology,Laptop,5249.14,834.63,3,ORD-303333
+2023-06-24,Kara White,East,Furniture,Bookcase,8173.07,3982.65,5,ORD-745697
+2023-09-04,Brian Smith,East,Technology,Monitor,14064.07,746.91,8,ORD-731140
+2023-08-01,Jack Baldwin,North,Furniture,Desk,10436.59,-646.47,10,ORD-347832
+2023-06-17,Kimberly Wolf,Central,Office Supplies,Paper,3591.32,1110.59,3,ORD-722543
+2025-02-05,Roy Mclean,North,Office Supplies,Pens,807.75,102.66,8,ORD-818856
+2024-03-17,Richard Stuart,North,Office Supplies,Paper,2354.16,-23.99,2,ORD-415746
+2025-02-14,Michael Bowen,East,Technology,Monitor,3830.87,-286.28,2,ORD-761478
+2024-02-24,Tammie Daniels DDS,West,Furniture,Office Chair,13485.61,190.33,7,ORD-840376
+2024-04-04,Christine White,South,Office Supplies,Stapler,16197.0,2005.42,10,ORD-749902
+2023-08-01,William Anderson,Central,Furniture,Conference Table,2590.87,-451.53,3,ORD-540553
+2023-10-31,Johnny White,West,Office Supplies,Binders,4311.98,1265.0,6,ORD-605337
+2025-01-25,Jessica Harrison,South,Technology,Smartphone,12020.74,3224.46,8,ORD-710428
+2024-01-24,Elizabeth Shaffer,South,Office Supplies,Paper,6752.05,-1181.94,9,ORD-308720
+2024-02-28,Amy Hawkins,Central,Office Supplies,Binders,6837.47,2280.8,5,ORD-723534
+2023-08-02,Nathaniel Russell,East,Furniture,Desk,5967.47,1182.5,7,ORD-725329
+2024-04-25,Kim Rodgers,North,Furniture,Bookcase,15060.59,7071.84,9,ORD-722526
+2024-06-02,Jennifer Martinez,North,Technology,Laptop,5190.46,160.34,7,ORD-864030
+2024-12-05,Teresa Jensen,North,Technology,Laptop,4628.02,258.65,3,ORD-834323
+2023-08-24,Tammy Bailey,Central,Furniture,Office Chair,7701.63,3700.9,7,ORD-241954
+2024-05-01,Kayla Estrada,West,Office Supplies,Stapler,12484.71,1779.31,9,ORD-478397
+2023-09-05,Joshua Callahan,East,Technology,Printer,5600.75,420.32,7,ORD-897857
+2023-12-04,Lynn Rogers,North,Office Supplies,Paper,16222.6,1001.14,9,ORD-336078
+2023-12-20,Travis Reid,East,Office Supplies,Paper,343.27,129.3,1,ORD-444304
+2025-04-07,Alyssa Davis,East,Office Supplies,Stapler,6960.82,3091.78,4,ORD-481652
+2025-03-31,Amber Gordon,South,Furniture,Desk,1528.31,-60.13,1,ORD-582549
+2024-10-02,Antonio Harris,South,Furniture,Conference Table,15050.56,5604.45,9,ORD-183571
+2024-01-08,Robert Martin,West,Office Supplies,Paper,2797.15,602.21,3,ORD-469190
+2024-08-16,Dr. Michelle Williams,South,Technology,Monitor,2327.62,669.1,7,ORD-182527
+2024-11-29,Theresa Ellis,North,Technology,Printer,9048.36,2171.52,6,ORD-223764
+2024-03-01,Janet Evans,North,Office Supplies,Pens,1774.81,-21.64,5,ORD-708702
+2023-09-29,David Williams,South,Furniture,Conference Table,3985.97,396.38,2,ORD-494460
+2024-11-19,Daniel Coleman,Central,Technology,Printer,1617.81,607.13,1,ORD-679498
+2023-07-03,Joseph Ramsey,North,Furniture,Desk,4158.99,845.25,6,ORD-976150
+2024-07-22,Richard Jones,West,Technology,Laptop,3695.07,-260.37,2,ORD-775896
+2023-06-18,Mrs. Allison Moore,West,Office Supplies,Stapler,13549.21,4563.26,7,ORD-752613
+2024-09-10,Victor Walker,East,Technology,Smartphone,5131.84,-976.47,4,ORD-202480
+2024-02-11,Anthony Ramirez,South,Technology,Smartphone,10497.65,-1401.57,9,ORD-542589
+2024-10-13,Ryan Mcgrath,East,Furniture,Conference Table,7987.59,3331.67,7,ORD-597940
+2023-09-30,Michael Johnson,North,Technology,Monitor,10954.18,1684.62,7,ORD-596445
+2024-10-28,Jose Welch,Central,Furniture,Bookcase,417.68,71.34,1,ORD-217841
+2023-08-15,David Shepherd,South,Technology,Printer,9266.04,3201.37,6,ORD-110925
+2024-11-14,Joseph Saunders,North,Technology,Printer,11942.59,4143.74,9,ORD-650094
+2024-09-11,Shane Kim,South,Technology,Laptop,3265.26,-241.76,4,ORD-866601
+2023-08-14,Brenda Davis,East,Office Supplies,Stapler,7036.62,1629.4,6,ORD-566366
+2024-02-22,Mary Russell,North,Furniture,Desk,17534.15,455.21,10,ORD-240053
+2024-04-18,Wanda Hunt,South,Furniture,Bookcase,3751.77,283.43,2,ORD-614657
+2024-09-24,Robert Craig,North,Furniture,Bookcase,1408.1,409.84,9,ORD-867560
+2024-12-06,Brittany Wolfe,West,Furniture,Bookcase,433.06,-13.51,1,ORD-805304
+2023-07-26,Alicia Baker,South,Technology,Smartphone,1890.13,-122.49,8,ORD-868568
+2024-02-24,Adam Ryan,North,Office Supplies,Binders,1612.43,421.33,2,ORD-530276
+2024-10-04,Jerome Davis,Central,Furniture,Desk,882.22,404.91,10,ORD-644538
+2023-04-29,Mariah Walker,Central,Furniture,Office Chair,9569.81,481.13,9,ORD-313751
+2023-10-24,Joseph Vargas,North,Technology,Smartphone,14318.75,6599.94,8,ORD-869841
+2024-04-25,Thomas Peterson,South,Technology,Printer,4627.82,886.8,10,ORD-693696
+2023-06-10,Benjamin Thornton,South,Technology,Monitor,1033.59,-178.23,5,ORD-105735
+2024-08-12,Susan Reynolds,West,Office Supplies,Paper,5325.63,-211.99,4,ORD-343502
+2023-08-26,Joshua Carter,South,Technology,Printer,4274.92,1104.85,6,ORD-166565
+2023-05-24,Kevin Rodriguez,Central,Office Supplies,Binders,13296.09,-1549.85,9,ORD-450172
+2025-02-19,Peggy Park,North,Furniture,Bookcase,1374.39,-5.61,1,ORD-579261
+2023-07-27,Kenneth Cline,South,Technology,Laptop,4162.08,514.8,9,ORD-564933
+2023-11-03,Nina Hayden,North,Office Supplies,Pens,7021.92,2260.52,4,ORD-181799
+2024-08-11,Christopher Smith,North,Furniture,Conference Table,8080.76,738.91,5,ORD-549411
+2023-09-24,Kaitlin Price,West,Technology,Smartphone,1534.68,92.55,2,ORD-204155
+2025-03-06,Aaron Smith,North,Technology,Laptop,104.59,8.21,10,ORD-707520
+2024-11-22,Matthew Mitchell,Central,Office Supplies,Paper,11198.85,4017.15,10,ORD-517149
+2023-08-23,William Higgins,South,Furniture,Office Chair,2138.14,222.22,4,ORD-295834
+2024-01-20,Isabel Forbes,North,Furniture,Bookcase,3169.03,-600.91,6,ORD-834054
+2023-12-11,Troy Mann,South,Office Supplies,Binders,11735.67,5762.47,7,ORD-929924
+2024-02-27,Teresa Alexander,South,Office Supplies,Paper,4637.19,2208.39,6,ORD-171559
+2024-10-25,Anthony Barber,West,Office Supplies,Paper,1258.38,37.08,1,ORD-145954
+2023-06-25,Kaitlyn Warren,North,Technology,Monitor,15384.72,-235.62,8,ORD-655812
+2024-01-07,Jeremy Schneider,South,Office Supplies,Pens,890.58,279.34,5,ORD-984623
+2024-02-20,Sarah Russo,South,Furniture,Desk,933.73,-164.81,7,ORD-890351
+2023-05-10,Eric Cole,West,Office Supplies,Binders,435.26,51.34,2,ORD-215602
+2023-12-15,Jessica Rose,North,Furniture,Office Chair,2076.49,-146.95,2,ORD-247157
+2025-03-02,Breanna Lane,East,Furniture,Desk,3914.74,-362.06,10,ORD-328592
+2024-07-07,Peter Robinson,West,Office Supplies,Pens,2196.97,197.97,3,ORD-710511
+2024-10-30,Derek Gibson,North,Furniture,Bookcase,3463.03,-642.88,4,ORD-641826
+2024-11-10,Brian Lester,North,Technology,Monitor,2802.74,819.98,3,ORD-757389
+2024-02-18,Kyle Henderson,West,Office Supplies,Pens,3493.86,-408.03,5,ORD-560374
+2025-04-06,Gregory Aguilar,Central,Office Supplies,Stapler,1949.98,31.85,1,ORD-268254
+2025-03-20,April Russell,East,Furniture,Desk,9096.83,2838.07,5,ORD-444320
+2024-09-26,Brittany Gould DVM,West,Office Supplies,Stapler,7689.48,1644.05,7,ORD-477763
+2023-10-21,Katrina Adams,North,Office Supplies,Paper,3492.96,1537.61,4,ORD-799995
+2024-04-28,Ryan Lewis,Central,Furniture,Conference Table,1590.37,539.54,2,ORD-191324
+2024-04-03,Gabrielle Rose,South,Furniture,Desk,2586.93,-20.71,6,ORD-298894
+2023-08-20,Christina Marsh,North,Technology,Smartphone,818.75,-131.38,1,ORD-369499
+2023-10-29,Heather Morton,North,Office Supplies,Stapler,1930.61,-102.96,7,ORD-846335
+2023-12-07,Melissa Hardin,West,Furniture,Office Chair,5605.73,2657.04,8,ORD-970904
+2024-05-05,Alexander Mills,Central,Technology,Printer,2534.33,-125.72,3,ORD-241540
+2024-05-08,Cory Moreno,South,Technology,Smartphone,809.24,313.24,5,ORD-177427
+2023-06-15,Daniel Shaw,North,Technology,Smartphone,254.58,-49.4,4,ORD-108926
+2024-01-03,Amy Martinez,South,Office Supplies,Paper,12110.27,-424.73,8,ORD-841496
+2023-07-14,Anna Friedman,North,Furniture,Bookcase,846.95,-25.39,1,ORD-853504
+2024-09-17,Nicole Murphy,Central,Furniture,Desk,1686.17,-50.43,3,ORD-874083
+2024-08-23,Anthony Johnston,West,Office Supplies,Stapler,4753.57,121.86,9,ORD-718256
+2023-11-20,Robert Hayes,Central,Office Supplies,Paper,10065.23,2453.43,7,ORD-553826
+2025-03-07,James Armstrong,East,Furniture,Desk,15153.39,986.58,10,ORD-634401
+2023-12-07,William Griffith,West,Technology,Printer,1425.37,577.0,1,ORD-979369
+2023-05-31,Kyle Cole,South,Furniture,Conference Table,342.59,133.66,1,ORD-655440
+2023-05-10,James Pruitt,South,Technology,Monitor,1499.84,334.39,8,ORD-817913
+2023-06-09,William Perkins,West,Office Supplies,Binders,5084.53,2401.15,4,ORD-809227
+2023-04-30,Mark Johnson MD,North,Office Supplies,Stapler,4709.37,-576.23,3,ORD-188163
+2024-04-13,Mary Figueroa,East,Furniture,Office Chair,1388.11,403.19,4,ORD-222843
+2024-10-01,Ashley Skinner,North,Furniture,Bookcase,5041.67,210.2,3,ORD-621978
+2024-07-25,Felicia Mckinney,North,Office Supplies,Stapler,12971.71,-942.48,8,ORD-263738
+2024-04-03,Sandra Hernandez,West,Furniture,Office Chair,1579.06,784.22,1,ORD-944880
+2024-11-21,Michael Terrell,North,Technology,Monitor,961.37,123.49,4,ORD-253618
+2024-02-20,Arthur Harper,North,Office Supplies,Binders,4559.19,-521.8,5,ORD-344917
+2024-02-01,Michael Moon,East,Technology,Laptop,3690.08,968.23,3,ORD-957920
+2024-01-30,Richard Young,South,Office Supplies,Paper,294.07,46.17,2,ORD-819967
+2025-03-18,Amber Thomas,Central,Office Supplies,Binders,3615.09,1394.31,2,ORD-529128
+2024-04-01,Christian Morales,West,Office Supplies,Binders,4528.29,1137.98,3,ORD-251563
+2024-07-02,Rachel Robinson,South,Technology,Printer,3089.18,312.02,5,ORD-712578
+2024-01-21,Kristi Rogers,East,Furniture,Conference Table,512.66,121.28,6,ORD-926142
+2024-07-19,Christopher Ramirez,West,Furniture,Conference Table,13676.6,-308.94,9,ORD-223572
+2024-02-15,Joseph Johns,North,Technology,Monitor,7681.87,-532.66,9,ORD-161656
+2023-05-15,Rachael Torres,North,Furniture,Bookcase,3404.37,-189.06,4,ORD-511295
+2024-12-05,Donna Collins,South,Furniture,Office Chair,4759.94,681.44,10,ORD-526245
+2023-12-22,Alexander Mcmahon,South,Office Supplies,Binders,7961.97,-1010.78,4,ORD-124329
+2025-04-11,Thomas Gonzalez,North,Furniture,Conference Table,11556.04,4384.41,6,ORD-155436
+2024-05-13,Amanda Ortiz,Central,Furniture,Conference Table,3014.93,114.59,10,ORD-329620
+2023-10-11,Steven Bray,East,Technology,Printer,490.04,-33.52,2,ORD-184726
+2023-06-12,Karen Pham,South,Technology,Monitor,1457.37,216.11,7,ORD-343195
+2023-07-28,Michael Edwards,East,Furniture,Desk,3002.08,449.87,5,ORD-846633
+2023-12-18,Ryan Dawson,East,Office Supplies,Pens,2042.36,885.15,2,ORD-678832
+2025-03-07,Thomas Keller,West,Technology,Laptop,13559.63,1232.29,10,ORD-510254
+2023-08-26,Angela Lee,East,Technology,Monitor,3784.72,1841.14,4,ORD-105155
+2024-05-11,Jonathan Gregory,North,Technology,Monitor,6560.75,670.15,4,ORD-487534
+2024-12-12,Amber Hayes,North,Office Supplies,Pens,10151.03,1110.89,9,ORD-764614
+2023-09-04,Savannah Johnson,North,Furniture,Bookcase,793.1,377.06,2,ORD-882911
+2025-02-26,Wyatt Jensen,Central,Office Supplies,Stapler,14141.99,6241.79,8,ORD-737068
+2023-06-29,Heather Perry,East,Technology,Smartphone,510.53,-39.53,4,ORD-513833
+2024-09-16,Michael Morrison,North,Office Supplies,Stapler,9887.58,4329.67,10,ORD-711498
+2024-07-17,Sarah Boyd,North,Technology,Printer,16165.21,7343.87,9,ORD-892976
+2023-07-17,Andrea Frye,Central,Furniture,Desk,3534.06,1186.08,5,ORD-395309
+2024-10-30,Ryan Thompson,Central,Technology,Laptop,3669.4,1665.51,8,ORD-288981
+2024-07-26,Jason Kelly,South,Technology,Monitor,7277.33,-121.21,4,ORD-654723
+2024-09-26,Steven Ward,North,Furniture,Office Chair,13620.32,-790.54,7,ORD-854713
+2025-03-02,Robert Ward,North,Furniture,Office Chair,7679.86,994.45,5,ORD-632199
+2025-02-09,Stephanie Davenport,South,Furniture,Desk,12631.66,5190.03,7,ORD-185636
+2024-10-04,Andrea Durham,Central,Office Supplies,Binders,13938.61,388.3,9,ORD-184715
+2024-05-20,Danielle Johnson,East,Technology,Laptop,16784.8,-2873.26,10,ORD-417480
+2024-02-11,Angela Butler,East,Office Supplies,Pens,675.67,246.53,2,ORD-988441
+2025-03-16,Samuel Lowe,East,Furniture,Conference Table,4383.85,1035.48,3,ORD-294644
+2024-10-14,Angela Miller,Central,Office Supplies,Pens,8991.58,277.24,8,ORD-715249
+2023-08-18,Melissa White,Central,Furniture,Bookcase,4568.89,863.5,6,ORD-598680
+2024-11-28,Jennifer Harris,South,Furniture,Conference Table,5993.34,2353.91,5,ORD-130460
+2023-05-07,Michael Good,North,Office Supplies,Pens,4714.68,-397.04,3,ORD-439307
+2023-07-06,Amanda Smith,South,Office Supplies,Stapler,2841.43,102.76,2,ORD-261560
+2023-04-30,Nichole Reyes,West,Furniture,Office Chair,15951.29,3811.65,8,ORD-897004
+2024-03-24,Patricia James,North,Furniture,Bookcase,1763.17,796.5,1,ORD-634470
+2023-09-28,Matthew Walker,South,Technology,Laptop,9057.69,968.29,5,ORD-323911
+2023-12-16,Timothy Everett,East,Furniture,Desk,1313.84,457.25,1,ORD-662192
+2024-11-14,Melanie Garcia,West,Furniture,Conference Table,6547.08,135.62,10,ORD-525955
+2023-08-18,Benjamin Taylor,West,Furniture,Conference Table,4034.94,1044.71,3,ORD-240395
+2024-03-31,Angel Smith,Central,Furniture,Desk,11403.77,1128.75,6,ORD-719594
+2024-03-07,Robert Simpson,South,Office Supplies,Pens,13158.12,-951.39,8,ORD-151434
+2024-05-31,Elizabeth Bailey,Central,Technology,Printer,1114.97,226.0,2,ORD-569246
+2024-08-29,Jacqueline Bradford,North,Technology,Printer,792.37,-96.31,6,ORD-750898
+2024-06-07,Danielle Fields,East,Technology,Printer,17268.82,-2124.64,9,ORD-716175
+2023-11-14,Benjamin Watson,Central,Furniture,Bookcase,1871.05,86.08,10,ORD-195559
+2024-02-18,Thomas Mccall,North,Technology,Laptop,3788.75,1689.88,6,ORD-663050
+2025-01-05,Robert Evans,North,Furniture,Desk,10893.53,1661.69,9,ORD-982762
+2024-07-19,Briana Costa,North,Furniture,Office Chair,14543.07,7164.13,10,ORD-736882
+2023-05-30,Amber Russell,East,Furniture,Office Chair,11724.27,5732.58,10,ORD-875917
+2023-09-11,Stephanie Gross,Central,Furniture,Office Chair,1060.61,73.54,10,ORD-457070
+2024-10-04,Dennis Smith,North,Office Supplies,Pens,11812.98,5437.66,9,ORD-704917
+2024-12-13,Natalie Pratt,South,Office Supplies,Paper,1850.76,256.75,3,ORD-266672
+2024-08-05,Sean Reynolds,South,Technology,Printer,525.42,178.6,1,ORD-524680
+2025-01-07,Lisa Jackson,South,Furniture,Bookcase,7151.58,2672.95,4,ORD-946449
+2024-06-25,Dylan Gentry,North,Technology,Laptop,4923.72,-844.25,3,ORD-769152
+2024-09-13,Donna Hall,East,Furniture,Office Chair,9356.77,-803.58,5,ORD-319057
+2023-07-28,Timothy Warren,Central,Office Supplies,Paper,5869.2,824.26,5,ORD-397315
+2025-01-26,Susan Long,Central,Furniture,Bookcase,8495.6,-222.82,8,ORD-839084
+2025-01-24,Jeffrey Gilbert,North,Furniture,Desk,4055.22,-742.28,5,ORD-947418
+2024-01-27,Rebecca Mcdaniel DDS,West,Office Supplies,Paper,10971.26,-1424.79,7,ORD-581256
+2024-08-17,Heather Parks,North,Technology,Monitor,406.32,36.86,3,ORD-653049
+2024-05-17,Marie Richards,North,Technology,Monitor,4141.84,555.3,5,ORD-363229
+2023-09-23,Sabrina Schmidt PhD,South,Technology,Printer,980.19,20.18,1,ORD-566418
+2023-10-25,Jeffrey Lopez,East,Technology,Printer,1056.47,66.16,1,ORD-839817
+2024-11-14,Jason Herrera,West,Technology,Monitor,11864.61,-744.59,6,ORD-458278
+2024-01-24,James Kelley,Central,Technology,Printer,13809.49,1724.6,10,ORD-970574
+2024-05-25,Jerry Ball,East,Technology,Laptop,1413.55,120.39,3,ORD-816028
+2024-08-01,Jordan Watson,Central,Office Supplies,Paper,5089.41,1139.22,8,ORD-296156
+2023-08-05,Justin Johnson,North,Technology,Monitor,19171.5,143.57,10,ORD-921006
+2024-11-21,Carol Boyer,Central,Office Supplies,Stapler,1165.71,261.39,1,ORD-156545
+2023-09-03,Jennifer Blair,Central,Office Supplies,Pens,4614.83,1658.51,4,ORD-150756
+2024-11-17,Carlos Taylor,West,Technology,Monitor,1245.87,329.02,1,ORD-642402
+2024-01-20,Heather Carroll,West,Office Supplies,Stapler,947.29,76.51,7,ORD-945658
+2024-03-06,Taylor Johnson,West,Office Supplies,Stapler,2501.13,823.78,5,ORD-225888
+2023-09-18,Mark Hansen,South,Furniture,Office Chair,11421.29,75.19,10,ORD-103869
+2025-03-08,Christine Wilson,West,Office Supplies,Paper,3634.49,567.06,2,ORD-132777
+2024-07-27,Jennifer Rosales,Central,Office Supplies,Stapler,8293.11,239.94,5,ORD-227315
+2023-11-16,Erica Hale,East,Furniture,Office Chair,4492.69,1584.31,8,ORD-642495
+2024-03-10,Brian Mcclain,Central,Technology,Laptop,1894.87,-25.56,10,ORD-817654
+2023-05-23,Norman Wang,South,Technology,Monitor,141.01,53.28,1,ORD-693060
+2025-04-08,Kevin Johnson,East,Technology,Printer,2235.92,-235.78,7,ORD-107037
+2024-05-18,Joseph Scott,West,Furniture,Conference Table,10212.53,-1966.47,9,ORD-116434
+2025-03-17,Michelle Goodman,North,Furniture,Conference Table,16193.22,4999.13,9,ORD-561504
+2023-04-25,Taylor Bright,East,Office Supplies,Stapler,5297.18,1077.15,5,ORD-199297
+2023-11-20,Haley Anderson,North,Technology,Printer,9661.66,-1178.38,8,ORD-812110
+2024-10-01,Daniel Craig,North,Technology,Smartphone,4027.25,1161.79,3,ORD-386611
+2025-02-08,Veronica Cantrell,West,Technology,Monitor,3685.6,170.64,2,ORD-637049
+2024-01-26,Bridget Clarke,East,Office Supplies,Binders,1166.63,101.8,6,ORD-921475
+2024-10-10,Abigail Davis,North,Furniture,Desk,1646.97,434.83,8,ORD-364169
+2024-08-21,Stephanie Elliott,West,Furniture,Office Chair,8861.75,265.72,5,ORD-106485
+2024-02-17,Adam Johnston,East,Technology,Smartphone,15627.23,4268.69,10,ORD-715385
+2024-08-31,Kevin Klein,South,Furniture,Bookcase,2810.73,201.63,10,ORD-788018
+2025-03-15,James Sanchez,North,Office Supplies,Binders,10958.78,563.85,7,ORD-213437
+2024-11-18,James Garza,East,Furniture,Conference Table,19076.37,6364.11,10,ORD-973748
+2023-11-22,Laurie Caldwell,Central,Technology,Smartphone,7404.15,-693.6,7,ORD-869451
+2024-07-21,Kimberly Thomas,North,Office Supplies,Stapler,10657.57,3615.92,6,ORD-266337
+2023-07-01,Chase Riley,North,Technology,Monitor,11337.74,14.29,8,ORD-428440
+2023-12-31,Dillon Cummings Jr.,West,Office Supplies,Binders,9681.16,3205.17,6,ORD-102500
+2024-04-06,Bethany Scott,East,Technology,Monitor,4670.1,675.97,4,ORD-553094
+2024-09-01,Lauren Phillips,North,Furniture,Desk,1470.15,547.64,7,ORD-811488
+2023-12-10,David Williams,South,Furniture,Bookcase,3964.89,-94.19,3,ORD-699146
+2024-10-30,Christina Gallagher,East,Technology,Smartphone,2675.61,1292.03,5,ORD-844586
+2025-01-18,Victor Melton,West,Technology,Laptop,15194.57,-1604.47,8,ORD-547702
+2023-08-18,Chad Patrick,East,Technology,Laptop,17635.01,-1151.24,9,ORD-895294
+2023-08-03,Steven Murray,North,Office Supplies,Pens,262.69,12.77,6,ORD-747996
+2024-03-31,Jennifer Baird,Central,Office Supplies,Paper,2268.81,-370.81,5,ORD-763976
+2023-08-06,Sean Collier,West,Office Supplies,Pens,1755.97,271.43,5,ORD-560493
+2024-08-09,Erica Hutchinson,South,Furniture,Office Chair,3272.17,793.79,4,ORD-743140
+2023-10-20,Sheila Cardenas,West,Furniture,Office Chair,2907.59,1142.48,3,ORD-487726
+2024-03-16,Michelle Martinez,South,Office Supplies,Binders,9140.96,-1744.63,9,ORD-339707
+2023-05-22,John Rivera,East,Furniture,Bookcase,12763.76,-1120.23,7,ORD-392532
+2025-01-10,Jamie Moreno,North,Technology,Smartphone,1184.41,408.1,2,ORD-389811
+2025-04-03,Scott Gomez,North,Furniture,Conference Table,1377.58,312.63,5,ORD-497743
+2024-11-10,Anthony Sparks,South,Furniture,Bookcase,6680.48,715.24,10,ORD-773507
+2023-06-19,Vincent Stewart,East,Technology,Monitor,667.58,107.94,2,ORD-394888
+2024-01-31,Gabriella Garza,East,Technology,Laptop,5655.86,1571.9,6,ORD-504231
+2025-03-27,Kathleen Collins,East,Furniture,Desk,622.33,5.64,7,ORD-346716
+2023-05-31,Amy Hill,West,Furniture,Office Chair,3861.64,577.66,2,ORD-225043
+2023-07-02,Alexis Young,Central,Technology,Smartphone,6463.75,1823.92,6,ORD-948500
+2024-10-04,Mrs. Bianca Franklin,South,Office Supplies,Pens,16302.32,-503.09,9,ORD-492911
+2023-08-16,Gregory Smith,South,Technology,Monitor,14632.74,201.7,8,ORD-415633
+2024-01-24,Jennifer Cooke,North,Furniture,Office Chair,11786.63,-375.59,9,ORD-813045
+2023-10-06,Anita House,Central,Technology,Smartphone,16347.11,1402.56,10,ORD-918887
+2024-06-07,Jennifer Rodriguez,East,Furniture,Bookcase,1903.07,556.93,7,ORD-416219
+2023-06-04,Debra Stevenson,East,Furniture,Bookcase,7263.0,229.2,8,ORD-734572
+2024-06-13,Judy Morales,South,Office Supplies,Binders,326.69,10.88,1,ORD-182023
+2024-11-28,Jennifer Glass,West,Furniture,Bookcase,10743.7,-155.02,9,ORD-446761
+2024-07-10,Bryan Young,Central,Furniture,Desk,2734.76,331.97,2,ORD-371681
+2025-04-02,Kimberly Robertson,Central,Furniture,Bookcase,10770.25,2976.47,7,ORD-983414
+2023-05-25,Kyle Schmidt,East,Technology,Smartphone,904.63,-120.13,2,ORD-192007
+2023-05-03,Nathan Simon,South,Office Supplies,Stapler,685.76,299.85,1,ORD-579584
+2023-08-20,Patricia Green,West,Furniture,Conference Table,4554.88,1007.96,5,ORD-327757
+2024-04-11,Kathleen Jackson,North,Technology,Laptop,10191.56,-1067.43,6,ORD-214068
+2023-06-16,Michael Moore,West,Furniture,Conference Table,1168.7,142.22,8,ORD-664871
+2025-03-20,Bonnie Horton,South,Furniture,Bookcase,1826.81,748.0,9,ORD-373013
+2023-09-09,Yolanda Walker,East,Technology,Printer,4494.47,975.75,7,ORD-235988
+2023-10-15,Shawn Jackson,Central,Office Supplies,Binders,733.34,77.82,4,ORD-353134
+2025-03-09,Melissa Taylor,Central,Office Supplies,Pens,8935.8,-625.49,5,ORD-972532
+2023-06-17,Ashley Thomas,West,Furniture,Bookcase,5673.18,494.94,3,ORD-373921
+2023-04-29,Veronica Taylor,South,Technology,Monitor,4180.94,1773.75,7,ORD-618151
+2024-06-20,Laurie Fox,South,Furniture,Conference Table,2523.23,-341.57,5,ORD-516860
+2023-12-26,David Hogan,South,Furniture,Office Chair,8677.35,1667.36,5,ORD-890288
+2025-03-20,Robert Patel,East,Technology,Monitor,11494.47,3047.08,9,ORD-354556
+2024-09-24,Kenneth Rice,East,Furniture,Bookcase,18768.01,-681.98,10,ORD-634522
+2024-10-28,Mike Benitez,North,Furniture,Office Chair,1501.17,-84.85,1,ORD-146232
+2023-06-04,Alison Palmer,East,Technology,Smartphone,907.05,213.23,7,ORD-553881
+2025-03-19,Joseph Hayes,North,Furniture,Office Chair,881.39,-127.03,5,ORD-881320
+2024-06-09,Kylie Allen,Central,Technology,Monitor,514.39,49.21,1,ORD-875803
+2024-09-16,Melissa Parker,South,Office Supplies,Stapler,3155.9,4.8,6,ORD-256447
+2023-06-23,Joseph Burke,Central,Furniture,Conference Table,11000.34,2645.52,8,ORD-351216
+2024-05-10,Isaiah Parrish,South,Furniture,Office Chair,1888.09,-322.36,5,ORD-562463
+2025-01-08,Ronald Carroll,East,Office Supplies,Pens,1459.64,-1.84,1,ORD-534415
+2024-06-27,Stephanie Robinson,West,Office Supplies,Paper,15227.87,7512.77,8,ORD-176504
+2024-07-20,Zachary Mathis,South,Technology,Smartphone,2326.47,832.69,6,ORD-964675
+2024-06-13,Maria Lee,North,Furniture,Bookcase,664.11,98.0,7,ORD-674143
+2024-04-21,Steven Reese,West,Technology,Monitor,9758.28,2076.42,8,ORD-892592
+2023-05-17,David Foster,South,Office Supplies,Pens,121.68,52.03,1,ORD-604206
+2025-04-13,Jonathan Edwards,Central,Furniture,Office Chair,10509.06,1360.69,8,ORD-723311
+2024-02-13,Angela Price,South,Technology,Printer,3709.97,-198.69,4,ORD-896078
+2024-02-08,Patrick Nelson,West,Technology,Laptop,5463.6,-673.93,10,ORD-192231
+2023-07-11,Jodi Oliver,Central,Office Supplies,Stapler,318.8,25.66,3,ORD-376066
+2024-01-22,Shawn Nguyen PhD,Central,Technology,Printer,2459.86,-81.48,3,ORD-752009
+2024-08-05,Olivia Yang,Central,Furniture,Office Chair,10442.38,3655.93,10,ORD-381941
+2025-04-13,Matthew Perez,Central,Furniture,Bookcase,1982.32,776.54,1,ORD-773243
+2024-01-31,Jeremy Baker,East,Office Supplies,Binders,2998.01,-175.84,2,ORD-664407
+2024-09-18,James Hudson,South,Furniture,Office Chair,2734.68,503.75,10,ORD-459265
+2025-02-28,Christopher Anderson,West,Technology,Monitor,3017.0,370.44,2,ORD-315248
+2024-04-24,Jennifer Hubbard,West,Technology,Printer,8776.57,1998.9,5,ORD-426390
+2025-02-01,Pamela Fox,South,Furniture,Conference Table,2525.51,798.75,2,ORD-127577
+2025-04-10,Lisa Henson,Central,Furniture,Conference Table,6632.08,3139.44,7,ORD-167963
+2023-05-27,Karla Johnson,East,Office Supplies,Binders,8491.78,-544.69,9,ORD-795679
+2023-04-25,Karla Rodriguez,Central,Office Supplies,Binders,7337.6,2356.92,4,ORD-678512
+2024-11-28,Jamie Rowland,South,Office Supplies,Pens,1171.58,124.93,3,ORD-844998
+2024-05-09,Duane Hall,Central,Technology,Smartphone,8187.2,202.58,5,ORD-282546
+2024-09-08,Jackson Garcia,South,Furniture,Bookcase,2304.88,144.73,4,ORD-953141
+2024-10-27,Alexis Norman,Central,Furniture,Conference Table,382.46,15.24,1,ORD-440243
+2024-04-27,Mary Watts,Central,Technology,Smartphone,1935.47,-308.37,1,ORD-361341
+2023-08-02,Sandra Mccoy,West,Furniture,Bookcase,6152.29,791.04,5,ORD-954247
+2024-04-28,Jeffrey Werner,West,Office Supplies,Pens,6720.5,1649.14,9,ORD-879280
+2024-07-04,Christopher Hansen,East,Office Supplies,Binders,613.99,86.9,7,ORD-368335
+2023-07-31,Jamie Zamora,South,Furniture,Office Chair,178.37,12.46,1,ORD-279844
+2025-03-23,Natasha Dennis,South,Technology,Monitor,8947.58,99.4,7,ORD-109290
+2025-01-30,John Larsen,South,Technology,Monitor,16121.32,225.81,9,ORD-410708
