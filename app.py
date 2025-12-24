@@ -251,13 +251,12 @@ st.markdown(
         #custom-footer .team {
             display: flex;
             justify-content: center;
-            gap: 10px;
+            gap: 3px;
         }
     </style>
     <div id='custom-footer'>
         <div class="team">
-            Developed by 
-            <a href='https://www.linkedin.com/in/im-ddivu1744/' target='_blank'>Mayank</a>
+            Developed by<a href='https://www.linkedin.com/in/im-mayankverma/' target='_blank'>Mayank</a>
         </div>
         <div>
             <span>© 2025. All rights reserved.</span>
